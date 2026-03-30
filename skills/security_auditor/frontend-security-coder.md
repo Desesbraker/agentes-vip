@@ -36,6 +36,9 @@ Reducir riesgos client-side como XSS, clickjacking, almacenamiento inseguro y re
 - ./_playbook.md
 - ./_templates.md
 - ./auth-implementation-patterns.md
+- ./upstream/frontend-security-coder/
+- ./upstream/top-web-vulnerabilities/
+- ./upstream/web-security-testing/
 
 ## ANTI-PATRON
 

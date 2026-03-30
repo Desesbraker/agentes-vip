@@ -36,6 +36,8 @@ Descomponer solicitudes complejas o ambiguas hasta convertirlas en un entendimie
 - ./_playbook.md
 - ./_templates.md
 - ./planificacion-concisa.md
+- ./upstream/multi-agent-brainstorming/
+- ./upstream/multi-advisor/
 
 ## ANTI-PATRON
 

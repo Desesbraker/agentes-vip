@@ -36,6 +36,9 @@ Estructurar pentests autorizados con una metodologia clara de reconocimiento, va
 - ./_playbook.md
 - ./_templates.md
 - ./cloud-penetration-testing.md
+- ./upstream/ethical-hacking-methodology/
+- ./upstream/pentest-checklist/
+- ./upstream/pentest-commands/
 
 ## ANTI-PATRON
 

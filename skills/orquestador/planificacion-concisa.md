@@ -36,6 +36,8 @@ Convertir una solicitud nueva en un plan corto, accionable y validable sin sobre
 - ./_playbook.md
 - ./_templates.md
 - ./brainstorming.md
+- ./upstream/concise-planning/
+- ./upstream/planning-with-files/
 
 ## ANTI-PATRON
 

@@ -36,6 +36,9 @@ Auditar un perfil existente contra los principios P1-P8 y sus secciones obligato
 - ./_playbook.md
 - ./_templates.md
 - ./construccion-agentes.md
+- ./upstream/agent-evaluation/
+- ./upstream/architect-review/
+- ./upstream/skill-check/
 
 ## ANTI-PATRON
 

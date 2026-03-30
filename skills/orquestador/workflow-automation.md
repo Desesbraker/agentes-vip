@@ -36,6 +36,11 @@ Diseñar workflows entre agentes o procesos automatizados con patron adecuado, d
 - ./_playbook.md
 - ./_templates.md
 - ./planificacion-concisa.md
+- ./upstream/workflow-automation/
+- ./upstream/agent-orchestrator/
+- ./upstream/antigravity-skill-orchestrator/
+- ./upstream/dispatching-parallel-agents/
+- ./upstream/agent-orchestration-multi-agent-optimize/
 
 ## ANTI-PATRON
 

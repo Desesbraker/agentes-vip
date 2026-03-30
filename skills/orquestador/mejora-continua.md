@@ -36,6 +36,7 @@ Aplicar mejora continua sobre entregas y problemas recurrentes mediante cambios 
 - ./_playbook.md
 - ./_templates.md
 - ./workflow-automation.md
+- ./upstream/kaizen/
 
 ## ANTI-PATRON
 

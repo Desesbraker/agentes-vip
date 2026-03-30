@@ -36,6 +36,8 @@ Evaluar de forma autorizada la exposicion y los caminos de ataque en AWS, Azure 
 - ./_playbook.md
 - ./_templates.md
 - ./vulnerability-scanner.md
+- ./upstream/cloud-penetration-testing/
+- ./upstream/aws-penetration-testing/
 
 ## ANTI-PATRON
 

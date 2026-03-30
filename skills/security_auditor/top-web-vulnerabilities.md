@@ -36,6 +36,8 @@ Usar un catalogo amplio de vulnerabilidades web para estructurar assessments, ch
 - ./_playbook.md
 - ./_templates.md
 - ./security-auditor.md
+- ./upstream/top-web-vulnerabilities/
+- ./upstream/web-security-testing/
 
 ## ANTI-PATRON
 

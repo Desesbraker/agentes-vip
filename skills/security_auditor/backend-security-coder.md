@@ -36,6 +36,8 @@ Implementar o revisar backend seguro contra vulnerabilidades comunes de input ha
 - ./_playbook.md
 - ./_templates.md
 - ./api-security-best-practices.md
+- ./upstream/backend-security-coder/
+- ./upstream/security-scanning-security-sast/
 
 ## ANTI-PATRON
 

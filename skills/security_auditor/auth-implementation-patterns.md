@@ -36,6 +36,7 @@ Definir o auditar patrones de autenticacion y autorizacion para que el sistema t
 - ./_playbook.md
 - ./_templates.md
 - ./api-security-best-practices.md
+- ./upstream/auth-implementation-patterns/
 
 ## ANTI-PATRON
 

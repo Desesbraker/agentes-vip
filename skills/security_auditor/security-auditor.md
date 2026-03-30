@@ -36,6 +36,9 @@ Evaluar la postura de seguridad de una aplicacion, API o plataforma y devolver h
 - ./_playbook.md
 - ./_templates.md
 - ./vulnerability-scanner.md
+- ./upstream/security-auditor/
+- ./upstream/security-audit/
+- ./upstream/pentest-checklist/
 
 ## ANTI-PATRON
 

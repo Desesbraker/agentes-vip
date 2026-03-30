@@ -36,6 +36,9 @@ Diseñar o auditar APIs seguras con controles claros sobre autenticacion, autori
 - ./_playbook.md
 - ./_templates.md
 - ./auth-implementation-patterns.md
+- ./upstream/api-security-best-practices/
+- ./upstream/api-security-testing/
+- ./upstream/api-fuzzing-bug-bounty/
 
 ## ANTI-PATRON
 

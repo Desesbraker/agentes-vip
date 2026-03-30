@@ -36,6 +36,8 @@ Construir perfiles nuevos de agente con una estructura consistente, enrutable y 
 - ./_playbook.md
 - ./_templates.md
 - ./auditoria-perfiles.md
+- ./upstream/ai-agents-architect/
+- ./upstream/architect-review/
 
 ## ANTI-PATRON
 
